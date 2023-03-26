@@ -1,6 +1,6 @@
 # TJ Scanlan
 Data science portfolio and online resumé\
-##Projects\
+## Projects\
 *NBA Player Analysis*\
 ● Processed raw data in R from third-party sources to build seasonal datasets\
 ● Developed regression analyses for shooting statistics to predict impact on wins\
